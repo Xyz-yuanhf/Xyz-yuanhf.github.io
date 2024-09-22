@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Tsinghua University...
+I am a Ph.D. student in the [Department of Automation](https://www.au.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), advised by Prof. Shiji Song.
 
 ## Research Interests
 
