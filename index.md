@@ -14,3 +14,8 @@ I am currently a Ph.D. student in the [Department of Automation](https://www.au.
 - **Applications:** logistics and transportation, manufacturing and production, etc.
 
 {% include_relative _includes/publications.md %}
+
+## Contact
+
+- **E-mail:** yhf22@mails.tsinghua.edu.cn
+- **WeChat:** xyz_yuanhf
