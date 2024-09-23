@@ -17,5 +17,5 @@ I am currently a Ph.D. student in the [Department of Automation](https://www.au.
 
 ## Contact
 
-- **E-mail:** yhf22@mails.tsinghua.edu.cn
+- **E-mail:** [yhf22@mails.tsinghua.edu.cn](mailto:yhf22@mails.tsinghua.edu.cn)
 - **WeChat:** xyz_yuanhf
