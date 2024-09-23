@@ -20,19 +20,19 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+    
+  - title: Accelerating Column Generation Algorithm Using Machine Learning Based Column Elimination
+    authors: Lichang Fang, <strong>Haofeng Yuan</strong>, Shiji Song*
+    conference_short: SMC
+    conference: IEEE International Conference on Systems, Man and Cybernetics <strong>(SMC)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10393948
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VtyLZ-lPwp4J:scholar.google.com/&output=citation&scisdr=ClF22d4SEJq781Am6oc:AFWwaeYAAAAAZvEg8ocqo7cFCqSdKTg5nEg9UP4&scisig=AFWwaeYAAAAAZvEg8kWHsFEjmeYgLN1Ufei26LU&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/smc_2022.png
 
   - title: The Neural-Prediction based Acceleration Algorithm of Column Generation for Graph-Based Set Covering Problems
     authors: <strong>Haofeng Yuan</strong>, Peng Jiang, Shiji Song*
     conference_short: SMC
     conference: IEEE International Conference on Systems, Man and Cybernetics <strong>(SMC)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2207.01411.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VtyLZ-lPwp4J:scholar.google.com/&output=citation&scisdr=ClF22d4SEJq781Am6oc:AFWwaeYAAAAAZvEg8ocqo7cFCqSdKTg5nEg9UP4&scisig=AFWwaeYAAAAAZvEg8kWHsFEjmeYgLN1Ufei26LU&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/smc_2022.png
-
-  - title: Accelerating Column Generation Algorithm Using Machine Learning Based Column Elimination
-    authors: Lichang Fang, <strong>Haofeng Yuan</strong>, Shiji Song*
-    conference_short: SMC
-    conference: IEEE International Conference on Systems, Man and Cybernetics <strong>(SMC)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10393948
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VtyLZ-lPwp4J:scholar.google.com/&output=citation&scisdr=ClF22d4SEJq781Am6oc:AFWwaeYAAAAAZvEg8ocqo7cFCqSdKTg5nEg9UP4&scisig=AFWwaeYAAAAAZvEg8kWHsFEjmeYgLN1Ufei26LU&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/smc_2022.png
