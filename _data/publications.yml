@@ -7,6 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2312.14213.pdf
     code: https://github.com/Xyz-yuanhf/rl4cg
     bibtex: https://dblp.org/rec/conf/aaai/YuanFS24.bib?param=1
+    image: ./assets/img/aaai_2024.png
     
   - title: Accelerating Column Generation Algorithm Using Machine Learning Based Column Elimination
     authors: Lichang Fang, <strong>Haofeng Yuan</strong>, Yuli Zhang, Shiji Song*
