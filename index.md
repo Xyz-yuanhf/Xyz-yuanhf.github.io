@@ -9,8 +9,8 @@ I am currently a Ph.D. student in the [Department of Automation](https://www.au.
 
 ## Research Interests
 
-- **Machine Learning:** graph neural network, deep learning, reinforcement learning
-- **Combinatorial Optimization:** routing, scheduling, (linear) integer programming
+- **Machine Learning:** graph neural network, deep learning, reinforcement learning;
+- **Combinatorial Optimization:** routing, scheduling, (linear) integer programming;
 - **Applications:** transportation, manufacturing, etc.
 
 ## News
