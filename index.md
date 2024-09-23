@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [Department of Automation](https://www.au.
 
 - **Machine Learning:** graph neural network, deep learning, reinforcement learning;
 - **Combinatorial Optimization:** routing, scheduling, (linear) integer programming;
-- **Applications:** transportation, manufacturing, etc.
+- **Applications:** logistics and transportation, manufacturing and production, etc.
 
 ## News
 
