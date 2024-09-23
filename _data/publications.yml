@@ -6,13 +6,14 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.14213.pdf
     code: https://github.com/Xyz-yuanhf/rl4cg
-    bibtex: https://dblp.org/rec/conf/aaai/YuanFS24.html?view=bibtex
+    bibtex: https://dblp.org/rec/conf/aaai/YuanFS24.bib?param=1
+    
   - title: Accelerating Column Generation Algorithm Using Machine Learning Based Column Elimination
     authors: Lichang Fang, <strong>Haofeng Yuan</strong>, Yuli Zhang, Shiji Song*
     conference_short: SMC
     conference: IEEE International Conference on Systems, Man and Cybernetics <strong>(SMC)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10393948
-    bibtex: https://dblp.org/rec/conf/smc/FangYZS23.html?view=bibtex
+    bibtex: https://dblp.org/rec/conf/smc/FangYZS23.bib?param=1
     image: ./assets/img/smc_2023.png
 
   - title: The Neural-Prediction based Acceleration Algorithm of Column Generation for Graph-Based Set Covering Problems
@@ -20,5 +21,5 @@ main:
     conference_short: SMC
     conference: IEEE International Conference on Systems, Man and Cybernetics <strong>(SMC)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2207.01411.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VtyLZ-lPwp4J:scholar.google.com/&output=citation&scisdr=ClF22d4SEJq781Am6oc:AFWwaeYAAAAAZvEg8ocqo7cFCqSdKTg5nEg9UP4&scisig=AFWwaeYAAAAAZvEg8kWHsFEjmeYgLN1Ufei26LU&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: https://dblp.org/rec/conf/smc/YuanJS22.bib?param=1
     image: ./assets/img/smc_2022.png
