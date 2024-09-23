@@ -6,9 +6,7 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.14213.pdf
     code: https://github.com/Xyz-yuanhf/rl4cg
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:V0Wj4d0czPsJ:scholar.google.com/&output=citation&scisdr=ClGWN4veEKPgiWkxebU:AFWwaeYAAAAAZvE3YbVtN2SxEVf-MH_0tb0Wk0o&scisig=AFWwaeYAAAAAZvE3YVMkAne0aVENl8JCM5Fyzf4&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/aaai_2024.png
-    
+    bibtex: https://dblp.org/rec/conf/aaai/YuanFS24.html?view=bibtex
   - title: Accelerating Column Generation Algorithm Using Machine Learning Based Column Elimination
     authors: Lichang Fang, <strong>Haofeng Yuan</strong>, Yuli Zhang, Shiji Song*
     conference_short: SMC
