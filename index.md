@@ -25,4 +25,4 @@ My research interests mainly lie at the interface of Artificial Intelligence (AI
 ## Contact
 
 - **E-mail:** [yhf22@mails.tsinghua.edu.cn](mailto:yhf22@mails.tsinghua.edu.cn)
-- **WeChat:** xyz_yuanhf
+- **WeChat ID:** xyz_yuanhf
