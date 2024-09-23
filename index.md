@@ -9,8 +9,9 @@ I am currently a Ph.D. student in the [Department of Automation](https://www.au.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** deep learning, reinforcement learning
+- **Combinatorial Optimization:** routing, scheduling, (linear) integer programming
+- **Applications:** transportation, manufacturing, etc.
 
 ## News
 
