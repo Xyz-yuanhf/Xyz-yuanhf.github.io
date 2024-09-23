@@ -15,7 +15,10 @@ I am currently a Ph.D. student in the [Department of Automation](https://www.au.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Academic Services
+
+- **Reviewer for** IEEE Transactions on Automation Science and Engineering (T-ASE)
+- **Reviewer for** IEEE International Conference on Systems, Man, and Cybernetics (SMC)
 
 ## Contact
 
