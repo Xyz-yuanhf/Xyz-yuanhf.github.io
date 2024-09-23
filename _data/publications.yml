@@ -27,7 +27,7 @@ main:
     conference: IEEE International Conference on Systems, Man and Cybernetics <strong>(SMC)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10393948
     bibtex: https://dblp.org/rec/conf/smc/FangYZS23.html?view=bibtex
-    image: ./assets/img/smc_2022.png
+    image: ./assets/img/smc_2023.png
 
   - title: The Neural-Prediction based Acceleration Algorithm of Column Generation for Graph-Based Set Covering Problems
     authors: <strong>Haofeng Yuan</strong>, Peng Jiang, Shiji Song*
