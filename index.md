@@ -25,4 +25,4 @@ My research interests mainly lie at the interface of Artificial Intelligence (AI
 ## Contact
 
 - **E-mail:** [yhf22@mails.tsinghua.edu.cn](mailto:yhf22@mails.tsinghua.edu.cn)
-- **Address:** 616, Centre Main Building, Tsinghua University, Beijing, China.
+- **Address:** Room 616, Central Main Building, Tsinghua University, Beijing, China.
