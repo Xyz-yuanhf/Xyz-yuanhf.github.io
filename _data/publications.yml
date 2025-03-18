@@ -22,7 +22,7 @@ main:
     conference_short: T-ITS
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/10923657
-    bibtex: https://xyz-yuanhf.github.io/
+    bibtex: https://xyz-yuanhf.github.io/  # 待更新
     image: ./assets/img/tits_2025.png
 
   - title: Accelerating Column Generation Algorithm Using Machine Learning Based Column Elimination
