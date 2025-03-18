@@ -17,6 +17,14 @@ main:
     bibtex: https://dblp.org/rec/conf/smc/YuanJS22.bib?param=1
     image: ./assets/img/smc_2022.png
 
+  - title: Unified Scheduling Model for High-Speed Train Timetable Optimization and Rescheduling Based on Deep Reinforcement Learning
+    authors: Wanlu Yuang, Linyu Liu, <strong>Haofeng Yuan</strong>, Shiji Song*
+    conference_short: T-ITS
+    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10923657
+    bibtex: https://xyz-yuanhf.github.io/
+    image: ./assets/img/smc_2023.png
+
   - title: Accelerating Column Generation Algorithm Using Machine Learning Based Column Elimination
     authors: Lichang Fang, <strong>Haofeng Yuan</strong>, Yuli Zhang, Shiji Song*
     conference_short: SMC
