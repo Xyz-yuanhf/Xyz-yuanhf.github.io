@@ -22,14 +22,14 @@ main:
     conference_short: T-ITS
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/10923657
-    bibtex: https://xyz-yuanhf.github.io/  # 待更新
+    bibtex: https://dblp.org/rec/journals/tits/YangLYS25.bib?param=1  # 待更新
     image: ./assets/img/tits_2025.png
 
   - title: The Neural-Prediction based Acceleration Algorithm of Column Generation for Graph-Based Set Covering Problems
     authors: <strong>Haofeng Yuan</strong>, Peng Jiang, Shiji Song*
     conference_short: SMC
     conference: IEEE International Conference on Systems, Man and Cybernetics <strong>(SMC)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2207.01411.pdf
+    pdf: https://ieeexplore.ieee.org/document/9945420
     bibtex: https://dblp.org/rec/conf/smc/YuanJS22.bib?param=1
     image: ./assets/img/smc_2022.png
 
