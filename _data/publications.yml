@@ -8,6 +8,14 @@ main:
     bibtex: https://xyz-yuanhf.github.io/  # 待更新
     image: ./assets/img/tetci_2025.png
 
+  - title: Unified Scheduling Model for High-Speed Train Timetable Optimization and Rescheduling Based on Deep Reinforcement Learning
+    authors: Wanlu Yuang, Linyu Liu, <strong>Haofeng Yuan</strong>, Shiji Song*
+    conference_short: T-ITS
+    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10923657
+    bibtex: https://dblp.org/rec/journals/tits/YangLYS25.bib?param=1  # 待更新
+    image: ./assets/img/tits_2025.png
+
   - title: A Reinforcement-Learning-Based Multiple-Column Selection Strategy for Column Generation
     authors: <strong>Haofeng Yuan</strong>, Lichang Fang, Shiji Song*
     conference_short: AAAI
@@ -16,14 +24,6 @@ main:
     code: https://github.com/Xyz-yuanhf/rl4cg
     bibtex: https://dblp.org/rec/conf/aaai/YuanFS24.bib?param=1
     image: ./assets/img/aaai_2024.png
-
-  - title: Unified Scheduling Model for High-Speed Train Timetable Optimization and Rescheduling Based on Deep Reinforcement Learning
-    authors: Wanlu Yuang, Linyu Liu, <strong>Haofeng Yuan</strong>, Shiji Song*
-    conference_short: T-ITS
-    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2025.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10923657
-    bibtex: https://dblp.org/rec/journals/tits/YangLYS25.bib?param=1  # 待更新
-    image: ./assets/img/tits_2025.png
 
   - title: The Neural-Prediction based Acceleration Algorithm of Column Generation for Graph-Based Set Covering Problems
     authors: <strong>Haofeng Yuan</strong>, Peng Jiang, Shiji Song*
