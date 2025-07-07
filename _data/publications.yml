@@ -5,6 +5,7 @@ main:
     conference_short: TETCI
     conference: IEEE Transactions on Emerging Topics in Computational Intelligence <strong>(TETCI)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/document/11059335
+    code: https://github.com/Xyz-yuanhf/drl4tpp
     bibtex: https://xyz-yuanhf.github.io/  # 待更新
     image: ./assets/img/tetci_2025.png
 
@@ -13,7 +14,7 @@ main:
     conference_short: T-ITS
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/10923657
-    bibtex: https://dblp.org/rec/journals/tits/YangLYS25.bib?param=1  # 待更新
+    bibtex: https://dblp.org/rec/journals/tits/YangLYS25.bib?param=1 
     image: ./assets/img/tits_2025.png
 
   - title: A Reinforcement-Learning-Based Multiple-Column Selection Strategy for Column Generation
