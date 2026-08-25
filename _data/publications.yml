@@ -1,6 +1,6 @@
 main:
 
-  - title: FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations
+  - title: "FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations"
     authors: <strong>Haofeng Yuan</strong>, Jianing Peng, Jieyi Bi, Ni Zhang, Shiji Song*, Zhiguang Cao
     conference_short: EMNLP
     conference: The Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026.
