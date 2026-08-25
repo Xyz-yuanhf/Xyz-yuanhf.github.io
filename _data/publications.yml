@@ -4,9 +4,9 @@ main:
     authors: <strong>Haofeng Yuan</strong>, Jianing Peng, Jieyi Bi, Ni Zhang, Shiji Song, Zhiguang Cao
     conference_short: EMNLP
     conference: The Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026.
-    pdf: https://ieeexplore.ieee.org/document/11059335
-    code: https://github.com/Xyz-yuanhf/drl4tpp
-    bibtex: https://dblp.org/rec/journals/tetci/YuanZYSYFC26.bib?param=1 
+    pdf: https://arxiv.org/abs/2608.23353
+    code: https://github.com/Xyz-yuanhf/formuevo
+    bibtex: https://xyz-yuanhf.github.io/  # 待修改
     image: ./assets/img/emnlp_2026.png
 
   - title: Deep Reinforcement Learning for Traveling Purchaser Problems
