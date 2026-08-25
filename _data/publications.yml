@@ -7,6 +7,15 @@ main:
     pdf: https://ieeexplore.ieee.org/document/11059335
     code: https://github.com/Xyz-yuanhf/drl4tpp
     bibtex: https://dblp.org/rec/journals/tetci/YuanZYSYFC26.bib?param=1 
+    image: ./assets/img/emnlp_2026.png
+
+  - title: Deep Reinforcement Learning for Traveling Purchaser Problems
+    authors: <strong>Haofeng Yuan</strong>, Rongping Zhu, Wanlu Yang, Shiji Song*, KeyouYou, WeiFan, C. L. Philip Chen
+    conference_short: TETCI
+    conference: IEEE Transactions on Emerging Topics in Computational Intelligence <strong>(TETCI)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/11059335
+    code: https://github.com/Xyz-yuanhf/drl4tpp
+    bibtex: https://dblp.org/rec/journals/tetci/YuanZYSYFC26.bib?param=1 
     image: ./assets/img/tetci_2025.png
 
   - title: Unified Scheduling Model for High-Speed Train Timetable Optimization and Rescheduling Based on Deep Reinforcement Learning
