@@ -11,8 +11,8 @@ My research interests mainly lie at the interface of Artificial Intelligence (AI
 
 ## Research Interests
 
-- **Machine Learning:** deep learning, reinforcement learning, graph neural network;
-- **Combinatorial Optimization:** routing, scheduling, (linear) integer programming;
+- **Machine Learning:** deep learning, reinforcement learning, large language model;
+- **Combinatorial Optimization:** routing, scheduling, mixed integer programming;
 - **Applications:** logistics and transportation, manufacturing and production, etc.
 
 {% include_relative _includes/publications.md %}
