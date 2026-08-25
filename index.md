@@ -19,8 +19,14 @@ My research interests mainly lie at the interface of Artificial Intelligence (AI
 
 ## Academic Services
 
+- Reviewer for _INFORMS Journal on Computing (IJOC)_
+- Reviewer for _IEEE Transactions on Intelligent Transportation Systems (TITS)_
+- Reviewer for _IEEE Transactions on Industrial Informatics (TII)_
 - Reviewer for _IEEE Transactions on Automation Science and Engineering (T-ASE)_
-- Reviewer for _IEEE International Conference on Systems, Man, and Cybernetics (SMC)_
+- Reviewer for _Transportation Research Part E (TR-E)_
+- Reviewer for _Advances in Neural Information Processing Systems (NeurIPS)_
+- Reviewer for _Empirical Methods in Natural Language Processing (EMNLP)_
+- ...
 
 ## Contact
 
