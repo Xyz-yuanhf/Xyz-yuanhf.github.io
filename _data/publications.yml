@@ -1,9 +1,9 @@
 main:
 
-  - title: Deep Reinforcement Learning for Traveling Purchaser Problems
-    authors: <strong>Haofeng Yuan</strong>, Rongping Zhu, Wanlu Yang, Shiji Song*, KeyouYou, WeiFan, C. L. Philip Chen
-    conference_short: TETCI
-    conference: IEEE Transactions on Emerging Topics in Computational Intelligence <strong>(TETCI)</strong>, 2025.
+  - title: FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations
+    authors: <strong>Haofeng Yuan</strong>, Jianing Peng, Jieyi Bi, Ni Zhang, Shiji Song, Zhiguang Cao
+    conference_short: EMNLP
+    conference: The Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026.
     pdf: https://ieeexplore.ieee.org/document/11059335
     code: https://github.com/Xyz-yuanhf/drl4tpp
     bibtex: https://dblp.org/rec/journals/tetci/YuanZYSYFC26.bib?param=1 
