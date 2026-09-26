@@ -1,9 +1,9 @@
 main:
 
-  - title: "FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations"
-    authors: <strong>Haofeng Yuan</strong>, Jianing Peng, Jieyi Bi, Ni Zhang, Shiji Song*, Zhiguang Cao
-    conference_short: EMNLP
-    conference: The Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026.
+  - title: "Dynamic Scheduling for Hot Rolling Production by Hierarchical Reinforcement Learning and Heterogeneous Graph Neural Networks"
+    authors: <strong>Haofeng Yuan</strong>, Zhiguang Cao, Jianing Peng, Wanlu Yang, Yuli Zhang, Shiji Song*
+    conference_short: T-II
+    conference: IEEE Transactions on Industrial Informatics <strong>(T-II)</strong>, 2026.
     pdf: https://xyz-yuanhf.github.io/  # 待修改
     bibtex: https://xyz-yuanhf.github.io/  # 待修改
     image: ./assets/img/tii_2026.png
