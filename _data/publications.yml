@@ -10,7 +10,7 @@ main:
     image: ./assets/img/emnlp_2026.png
 
   - title: "Dynamic Scheduling for Hot Rolling Production by Hierarchical Reinforcement Learning and Heterogeneous Graph Neural Networks"
-    authors: <strong>Haofeng Yuan</strong>, Zhiguang Cao, Jianing Peng, Wanlu Yang, Yuli Zhang, Shiji Song*
+    authors: <strong>Haofeng Yuan</strong>, Zhiguang Cao, Jianing Peng, Wanlu Yang, Yuli Zhang*, Shiji Song*
     conference_short: T-II
     conference: IEEE Transactions on Industrial Informatics <strong>(T-II)</strong>, 2026.
     pdf: https://ieeexplore.ieee.org/document/11739881
