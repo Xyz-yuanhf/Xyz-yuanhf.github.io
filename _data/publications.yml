@@ -1,13 +1,5 @@
 main:
 
-  - title: "Dynamic Scheduling for Hot Rolling Production by Hierarchical Reinforcement Learning and Heterogeneous Graph Neural Networks"
-    authors: <strong>Haofeng Yuan</strong>, Zhiguang Cao, Jianing Peng, Wanlu Yang, Yuli Zhang, Shiji Song*
-    conference_short: T-II
-    conference: IEEE Transactions on Industrial Informatics <strong>(T-II)</strong>, 2026.
-    pdf: https://ieeexplore.ieee.org/document/11739881
-    bibtex: https://xyz-yuanhf.github.io/  # 待修改
-    image: ./assets/img/tii_2026.png
-
   - title: "FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations"
     authors: <strong>Haofeng Yuan</strong>, Jianing Peng, Jieyi Bi, Ni Zhang, Shiji Song*, Zhiguang Cao
     conference_short: EMNLP
@@ -16,6 +8,14 @@ main:
     code: https://github.com/Xyz-yuanhf/formuevo
     bibtex: https://xyz-yuanhf.github.io/  # 待修改
     image: ./assets/img/emnlp_2026.png
+
+  - title: "Dynamic Scheduling for Hot Rolling Production by Hierarchical Reinforcement Learning and Heterogeneous Graph Neural Networks"
+    authors: <strong>Haofeng Yuan</strong>, Zhiguang Cao, Jianing Peng, Wanlu Yang, Yuli Zhang, Shiji Song*
+    conference_short: T-II
+    conference: IEEE Transactions on Industrial Informatics <strong>(T-II)</strong>, 2026.
+    pdf: https://ieeexplore.ieee.org/document/11739881
+    bibtex: https://xyz-yuanhf.github.io/  # 待修改
+    image: ./assets/img/tii_2026.png
 
   - title: Deep Reinforcement Learning for Traveling Purchaser Problems
     authors: <strong>Haofeng Yuan</strong>, Rongping Zhu, Wanlu Yang, Shiji Song*, KeyouYou, WeiFan, C. L. Philip Chen
